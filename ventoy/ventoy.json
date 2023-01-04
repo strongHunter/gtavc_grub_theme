@@ -1,18 +1,14 @@
 {
     "theme": {
         "file": "/ventoy/themes/Gtavc_i/theme.txt",
-        "default_file": 0,
         "gfxmode": "1024x768",
         "display_mode": "GUI",
         "serial_param": "--unit=0 --speed=9600",
         "ventoy_left": "5%",
         "ventoy_top": "95%",
-        "ventoy_color": "#eff0f1",
+        "ventoy_color": "#EFF0F1",
         "fonts": [
-            "/ventoy/themes/Cyber-Security/dejavu_12.pf2",
-            "/ventoy/themes/Cyber-Security/dejavu_14.pf2",
-            "/ventoy/themes/Cyber-Security/dejavu_16.pf2",
-            "/ventoy/themes/Cyber-Security/dejavu_bold_48.pf2",
+            "/ventoy/themes/Gtavc_i/dejavu_12.pf2",
             "/ventoy/themes/Gtavc_i/pricedown_28.pf2",
             "/ventoy/themes/Gtavc_i/pricedown_48.pf2",
             "/ventoy/themes/Gtavc_i/pricedown_100.pf2"
